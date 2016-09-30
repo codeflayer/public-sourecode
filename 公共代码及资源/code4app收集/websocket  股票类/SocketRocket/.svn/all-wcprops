@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/kj201400199jyxt/!svn/ver/6/00-source/ios/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F0211/%E4%BF%A1%E6%98%93%E7%A7%91%E6%8A%80/Classes/Socket/SocketRocket
+END
+NSData+SRB64Additions.m
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/kj201400199jyxt/!svn/ver/6/00-source/ios/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F0211/%E4%BF%A1%E6%98%93%E7%A7%91%E6%8A%80/Classes/Socket/SocketRocket/NSData+SRB64Additions.m
+END
+SRWebSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/kj201400199jyxt/!svn/ver/6/00-source/ios/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F0211/%E4%BF%A1%E6%98%93%E7%A7%91%E6%8A%80/Classes/Socket/SocketRocket/SRWebSocket.h
+END
+SocketRocket-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/kj201400199jyxt/!svn/ver/6/00-source/ios/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F0211/%E4%BF%A1%E6%98%93%E7%A7%91%E6%8A%80/Classes/Socket/SocketRocket/SocketRocket-Prefix.pch
+END
+base64.c
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/kj201400199jyxt/!svn/ver/6/00-source/ios/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F0211/%E4%BF%A1%E6%98%93%E7%A7%91%E6%8A%80/Classes/Socket/SocketRocket/base64.c
+END
+SRWebSocket.m
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/kj201400199jyxt/!svn/ver/6/00-source/ios/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F0211/%E4%BF%A1%E6%98%93%E7%A7%91%E6%8A%80/Classes/Socket/SocketRocket/SRWebSocket.m
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/kj201400199jyxt/!svn/ver/6/00-source/ios/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F0211/%E4%BF%A1%E6%98%93%E7%A7%91%E6%8A%80/Classes/Socket/SocketRocket/base64.h
+END
+NSData+SRB64Additions.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/kj201400199jyxt/!svn/ver/6/00-source/ios/%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F0211/%E4%BF%A1%E6%98%93%E7%A7%91%E6%8A%80/Classes/Socket/SocketRocket/NSData+SRB64Additions.h
+END
